@@ -1,0 +1,10 @@
+# Core Deep Learning & Quantum Computing
+torch>=2.1.0
+torchvision>=0.16.0
+pennylane>=0.35.0
+
+# Frontend & Visualization
+streamlit>=1.32.0
+matplotlib>=3.8.0
+pillow>=10.0.0
+numpy>=1.24.0
